@@ -14,13 +14,11 @@ If there's a ◆ next to a feature, it means it will only work for the player us
 Things after a | are the reasons/descriptions for the change.
 
 ## Current Features:
-◆ **Better Comms Chat                                   | Makes the comms chat look better.**
-
- ⌊ Higher Character Limit (56 Characters >> 512 Characters)
+◆ **Better Comms Chat                                   | Makes the comms chat look a bit better.**
 
  ⌊ Player Chat Color (Blue >> Violet)
 
- ⌊ Chat Font Size (12 >> 10)
+ ⌊ Unimportant Text Font Size (12 >> 10)
 
 ◇ **Re-Added Private Matches                            | Re-enables the normally disabled private match button, however it currently is not able to be used to play private matches from what I know.**
 
